@@ -1,0 +1,29 @@
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\FrameworkDT.DL.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\FrameworkDT.DL.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.csprojResolveAssemblyReference.cache
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\TreinamentoAlex.Model.pdb
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\bin\Debug\FrameworkDT.DL.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.csproj.AssemblyReference.cache
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.csproj.CoreCompileInputs.cache
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.csproj.CopyComplete
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.Model\obj\Debug\TreinamentoAlex.Model.pdb

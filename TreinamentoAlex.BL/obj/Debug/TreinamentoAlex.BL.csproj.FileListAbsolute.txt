@@ -1,0 +1,59 @@
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.dll
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.dll
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.dll
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.pdb
+C:\Users\Bruno\documents\visual studio 2012\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.dll
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.dll
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.pdb
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.dll
+C:\Users\Bruno\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.pdb
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\FrameworkDT.DL.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.pdb
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.dll
+C:\Users\Bruno\Documents\Bak\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\FrameworkDT.DL.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.pdb
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csprojResolveAssemblyReference.cache
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.dll
+C:\Users\alex.nunes\Documents\x\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.pdb
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.BL.pdb
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\FrameworkDT.DL.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.DL.pdb
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\bin\Debug\TreinamentoAlex.Model.pdb
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csproj.AssemblyReference.cache
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csproj.CoreCompileInputs.cache
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.csproj.CopyComplete
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.dll
+D:\aulas\TreinamentoAlex\TreinamentoAlex.BL\obj\Debug\TreinamentoAlex.BL.pdb

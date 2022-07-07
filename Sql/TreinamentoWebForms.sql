@@ -1,0 +1,15 @@
+CREATE TABLE TipoCliente(
+Id INT PRIMARY KEY IDENTITY(1,1),
+Descricao VARCHAR(100)
+);
+
+CREATE Table Cliente(
+Id INT PRIMARY KEY IDENTITY(1,1),
+Nome VARCHAR(100) NOT NULL,
+SobreNome VARCHAR(100) NOT NULL,
+DataNascimento DATETIME NOT NULL,
+Pontuacao INT,
+IdTipo INT FOREIGN KEY(IdTipo) REFERENCES TipoCliente(Id) 
+ 
+);
+
