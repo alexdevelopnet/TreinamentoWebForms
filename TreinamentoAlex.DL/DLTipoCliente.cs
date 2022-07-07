@@ -43,10 +43,10 @@ namespace TreinamentoAlex.DL {
                 con = new SqlConnection(strConexao);
                 con.Open();
 
-                SqlCommand cmd = new SqlCommand("USP_U_Tip_Tipo_CLIENTE", con);
+                SqlCommand cmd = new SqlCommand("USP_U_Tipo_Cliente", con);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@Tip_N_Id_TipoCliente", tpcCliente.IdTipo);
-                cmd.Parameters.AddWithValue("@Tip_C_Descricacao", tpcCliente.Descricao);
+                cmd.Parameters.AddWithValue("@Id", tpcCliente.Id);
+                cmd.Parameters.AddWithValue("@Descricacao", tpcCliente.Descricao);
 
 
                 cmd.ExecuteNonQuery();
@@ -100,8 +100,8 @@ namespace TreinamentoAlex.DL {
                 while (radClientes.Read()) {
                     TipoCliente tipoCliente = new TipoCliente();
                     
-                    tipoCliente.IdTipo = Convert.ToInt32(radClientes["Tip_N_Id"]);
-                    tipoCliente.Descricao = (string)radClientes["Tip_C_Descricao"];
+                    tipoCliente.Id = Convert.ToInt32(radClientes["Id"]);
+                    tipoCliente.Descricao = (string)radClientes["Descricao"];
 
 
                     lstTipoCliente.Add(tipoCliente);
@@ -137,8 +137,8 @@ namespace TreinamentoAlex.DL {
                 if (radClientes.Read()) {
                     tipoCliente = new TipoCliente();
 
-                    tipoCliente.IdTipo = Convert.ToInt32(radClientes["Tip_N_Id"]);
-                    tipoCliente.Descricao = (string)radClientes["Tip_C_Descricacao"];
+                    tipoCliente.Id = Convert.ToInt32(radClientes["Id"]);
+                    tipoCliente.Descricao = (string)radClientes["Descricao"];
 
                 }
 

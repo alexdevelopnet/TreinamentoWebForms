@@ -45,3 +45,7 @@ D:\aulas\TreinamentoAlex\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.csproj.
 D:\aulas\TreinamentoAlex\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.csproj.CopyComplete
 D:\aulas\TreinamentoAlex\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.dll
 D:\aulas\TreinamentoAlex\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.pdb
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.csproj.AssemblyReference.cache
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.csproj.CoreCompileInputs.cache
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.dll
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.pdb
