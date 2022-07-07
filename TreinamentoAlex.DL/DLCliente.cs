@@ -23,11 +23,11 @@ namespace TreinamentoAlex.DL {
                 
                 SqlCommand cmd = new SqlCommand("USP_I_CLIENTE", con);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@Cli_C_Nome", cliente.Nome);
-                cmd.Parameters.AddWithValue("@Cli_C_SobreNome", cliente.SobreNome);
-                cmd.Parameters.AddWithValue("@Cli_D_DataNascimento", cliente.DataNascimento);
-                cmd.Parameters.AddWithValue("@Cli_N_Pontuacao", cliente.Pontuacao);
-                cmd.Parameters.AddWithValue("@Tip_Cli_N_Id", cliente.IdTipo);
+                cmd.Parameters.AddWithValue("@Nome", cliente.Nome);
+                cmd.Parameters.AddWithValue("@SobreNome", cliente.SobreNome);
+                cmd.Parameters.AddWithValue("@DataNascimento", cliente.DataNascimento);
+                cmd.Parameters.AddWithValue("@Pontuacao", cliente.Pontuacao);
+                cmd.Parameters.AddWithValue("@IdTipo", cliente.IdTipo);
 
 
                 intId = Convert.ToInt32(cmd.ExecuteScalar());
@@ -51,12 +51,12 @@ namespace TreinamentoAlex.DL {
 
                 SqlCommand cmd = new SqlCommand("USP_U_CLIENTE", con);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@Cli_N_Id", cliente.Id);
-                cmd.Parameters.AddWithValue("@Cli_C_Nome", cliente.Nome);
-                cmd.Parameters.AddWithValue("@Cli_C_SobreNome", cliente.SobreNome);
-                cmd.Parameters.AddWithValue("@Cli_D_DataNascimento", cliente.DataNascimento);
-                cmd.Parameters.AddWithValue("@Cli_N_Pontuacao", cliente.Pontuacao);
-                cmd.Parameters.AddWithValue("@Tip_Cli_N_Id", cliente.IdTipo);
+                cmd.Parameters.AddWithValue("@Id", cliente.Id);
+                cmd.Parameters.AddWithValue("@Nome", cliente.Nome);
+                cmd.Parameters.AddWithValue("@SobreNome", cliente.SobreNome);
+                cmd.Parameters.AddWithValue("@DataNascimento", cliente.DataNascimento);
+                cmd.Parameters.AddWithValue("@Pontuacao", cliente.Pontuacao);
+                cmd.Parameters.AddWithValue("@IdTipo", cliente.IdTipo);
 
                 cmd.ExecuteNonQuery();
             }
@@ -68,7 +68,7 @@ namespace TreinamentoAlex.DL {
         #endregion
         //---------------------------------------------------------------------------------------
         #region Deletar
-        public void Deletar(int intIdCliente) {
+        public void Deletar(int id) {
             SqlConnection con = null;
 
             try {
@@ -78,7 +78,7 @@ namespace TreinamentoAlex.DL {
 
                 SqlCommand cmd = new SqlCommand("USP_D_CLIENTE", con);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@Cli_N_Id", intIdCliente);
+                cmd.Parameters.AddWithValue("@Id", id);
 
                 cmd.ExecuteNonQuery();
             }
@@ -96,9 +96,7 @@ namespace TreinamentoAlex.DL {
 
             try {
                 string strConexao = ConfigurationManager.ConnectionStrings["conAlex"].ConnectionString;
-
-                string strUsuarioAdministrador = ConfigurationManager.AppSettings["usuAdministrador"];
-
+                 
                 con = new SqlConnection(strConexao);
                 con.Open();
 
@@ -112,13 +110,13 @@ namespace TreinamentoAlex.DL {
                 while (radClientes.Read()) {
                     ClienteListagem cliente = new ClienteListagem();
 
-                    cliente.Id = Convert.ToInt32(radClientes["Cli_N_Id"]);
-                    cliente.Nome = (string)radClientes["Cli_C_Nome"];
-                    cliente.SobreNome = (string)radClientes["Cli_C_SobreNome"];
-                    cliente.DataNascimento = Convert.ToDateTime(radClientes["Cli_D_DataNascimento"]);
-                    cliente.Pontuacao = Convert.ToInt32(radClientes["Cli_N_Pontuacao"]);
-                    cliente.IdTipo = Convert.ToInt32(radClientes["Tip_Cli_N_Id"]);
-                    cliente.DescricaoTipo = (string)radClientes["Tip_C_Descricao"];
+                    cliente.Id = Convert.ToInt32(radClientes["Id"]);
+                    cliente.Nome = (string)radClientes["Nome"];
+                    cliente.SobreNome = (string)radClientes["SobreNome"];
+                    cliente.DataNascimento = Convert.ToDateTime(radClientes["DataNascimento"]);
+                    cliente.Pontuacao = Convert.ToInt32(radClientes["Pontuacao"]);
+                    //cliente.IdTipo = Convert.ToInt32(radClientes["IdTipo"]);
+                    //cliente.DescricaoTipo = (string)radClientes["Descricao"];
 
                     lstCliente.Add(cliente);
                 }
@@ -134,7 +132,7 @@ namespace TreinamentoAlex.DL {
         #endregion
         //---------------------------------------------------------------------------------------
         #region Obter
-        public Cliente Obter(int IdCliente) {
+        public Cliente Obter(int Id) {
             SqlConnection con = null;
             Cliente cliente = null;
 
@@ -143,9 +141,9 @@ namespace TreinamentoAlex.DL {
                 con = new SqlConnection(strConexao);
                 con.Open();
 
-                SqlCommand cmd = new SqlCommand("USP_L_CLIENTE", con);
+                SqlCommand cmd = new SqlCommand("USP_O_CLIENTE", con);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("Cli_N_Id", IdCliente);
+                cmd.Parameters.AddWithValue("Id", Id);
 
                 SqlDataReader radClientes = cmd.ExecuteReader();
 
@@ -153,12 +151,12 @@ namespace TreinamentoAlex.DL {
                 if (radClientes.Read()) {
                     cliente = new Cliente();
 
-                    cliente.Id = Convert.ToInt32(radClientes["Cli_N_Id"]);
-                    cliente.Nome = (string)radClientes["Cli_C_Nome"];
-                    cliente.SobreNome = (string)radClientes["Cli_C_SobreNome"];
-                    cliente.DataNascimento = Convert.ToDateTime(radClientes["Cli_D_DataNascimento"]);
-                    cliente.Pontuacao = Convert.ToInt32(radClientes["Cli_N_Pontuacao"]);
-                    cliente.IdTipo = Convert.ToInt32(radClientes["Tip_Cli_N_Id"]);
+                    cliente.Id = Convert.ToInt32(radClientes["Id"]);
+                    cliente.Nome = (string)radClientes["Nome"];
+                    cliente.SobreNome = (string)radClientes["SobreNome"];
+                    cliente.DataNascimento = Convert.ToDateTime(radClientes["DataNascimento"]);
+                    cliente.Pontuacao = Convert.ToInt32(radClientes["Pontuacao"]);
+                    cliente.IdTipo = Convert.ToInt32(radClientes["IdTipo"]);
 
 
                 }

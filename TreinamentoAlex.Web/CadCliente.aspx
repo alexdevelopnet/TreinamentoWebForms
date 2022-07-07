@@ -70,7 +70,7 @@
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="txtPontuacao" ErrorMessage="Irforme a pontuação" SetFocusOnError="true" ValidationGroup="Salvar" CssClass="font-size: small"></asp:RequiredFieldValidator>
 
                             <p>
-                                <asp:DropDownList ID="ddlTipoCliente" runat="server" DataTextField="Descricao" DataValueField="IdTipo" Height="39px" Width="272px" CssClass="font-size: small" OnSelectedIndexChanged="ddlTipoCliente_SelectedIndexChanged">
+                                <asp:DropDownList ID="ddlTipoCliente" runat="server" DataTextField="Descricao" DataValueField="Id" Height="39px" Width="272px" CssClass="font-size: small">
                                 </asp:DropDownList>
                             </p>
                             <asp:Button ID="btnSalvar" CssClass="btn btn-primary" runat="server" OnClick="btnSalvar_Click" Text="Salvar" ValidationGroup="Salvar" Width="174px" />

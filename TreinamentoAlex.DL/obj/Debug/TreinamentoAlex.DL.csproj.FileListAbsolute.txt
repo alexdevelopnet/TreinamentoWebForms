@@ -49,3 +49,9 @@ D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.D
 D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.csproj.CoreCompileInputs.cache
 D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.dll
 D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.pdb
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\bin\Debug\TreinamentoAlex.DL.dll
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\bin\Debug\TreinamentoAlex.DL.pdb
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\bin\Debug\TreinamentoAlex.Model.dll
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\bin\Debug\FrameworkDT.DL.dll
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\bin\Debug\TreinamentoAlex.Model.pdb
+D:\aulas\2022\TreinamentoWebForms\TreinamentoAlex.DL\obj\Debug\TreinamentoAlex.DL.csproj.CopyComplete

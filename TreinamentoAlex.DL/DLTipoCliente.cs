@@ -90,7 +90,7 @@ namespace TreinamentoAlex.DL {
                 con = new SqlConnection(strConexao);
                 con.Open();
 
-                SqlCommand cmd = new SqlCommand("USP_L_Tip_Tipo_CLIENTE", con);
+                SqlCommand cmd = new SqlCommand("USP_L_Tipo_CLIENTE", con);
                 cmd.CommandType = CommandType.StoredProcedure;
 
 
